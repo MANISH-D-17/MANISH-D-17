@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Manish+D+👋;Creative+Frontend+Developer+🎨;Building+Immersive+3D+Experiences+✨;Crafting+AI-Driven+Solutions+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C%20I%27m%20Manish%20D%20%F0%9F%91%8B%3BCreative%20Frontend%20Developer%20%F0%9F%8E%A8%3BBuilding%20Immersive%203D%20Experiences%20%E2%9C%A8%3BCrafting%20AI-Driven%20Solutions%20%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 ---
@@ -58,14 +58,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-D-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MANISH-D-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-D-17&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-D-17&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MANISH-D-17&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
