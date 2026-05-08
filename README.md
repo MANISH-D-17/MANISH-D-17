@@ -1,134 +1,86 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Manish+D+👋;Creative+Frontend+Developer+🎨;Building+Immersive+3D+Experiences+✨;Crafting+AI-Driven+Solutions+🤖" alt="Typing SVG" />
+</div>
 
-<!-- HERO SECTION -->
-<img src="https://raw.githubusercontent.com/MANISH-D-17/MANISH-D-17/main/assets/banner.png" width="100%" alt="MANISH D Banner" />
+---
 
-<br/>
+### 🌌 The Vision
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=MANISH+D;Creative+Frontend+Developer;3D+Web+Experience+Builder;Full+Stack+Developer" alt="Typing Animation" />
-</h1>
+> I am a **Creative Frontend Developer** dedicated to bridging the gap between imagination and reality through code. My work focuses on building immersive digital experiences that blend high-end UI engineering with 3D interactivity. Inspired by futuristic aesthetics and cinematic design, I turn complex ideas into seamless, visually stunning web applications.
+
+- 🚀 **Building:** Immersive 3D Portfolios & AI-Driven Solutions.
+- 🎨 **Crafting:** High-fidelity UI/UX with a focus on motion and glassmorphism.
+- 🔍 **Exploring:** The intersection of Creative Coding and AI.
+- 📸 **Capturing:** Professional photography & videography.
+
+---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+### 💎 Featured Creations
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **[AI-FINANCE-ADVISOR](https://github.com/MANISH-D-17/AI-FINANCE-ADVISOR)** | AI-powered personal finance advisor written in Python. | [View Code](https://github.com/MANISH-D-17/AI-FINANCE-ADVISOR) |
+| **[emergentai](https://github.com/MANISH-D-17/emergentai)** | Next-gen AI solutions platform built with modern JS. | [View Code](https://github.com/MANISH-D-17/emergentai) |
+| **[Weather-Forcaste-App](https://github.com/MANISH-D-17/Weather-Forcaste-App)** | Real-time interactive weather application. | [View Code](https://github.com/MANISH-D-17/Weather-Forcaste-App) |
+| **[BrewHub](https://github.com/MANISH-D-17/BrewHub)** | Office Drink Counter application. | [View Code](https://github.com/MANISH-D-17/BrewHub) |
+
+*(Note: Don't miss my [3D Portfolio Website](https://3-d-portfolio-website-beige.vercel.app/)!)*
+
+---
+
+### 🏆 Milestones & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Immersive_Experiences-ec4899?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Specialization-3D_Web-9333ea?style=for-the-badge&logo=three.js&logoColor=white" alt="Specialization" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MANISH-D-17&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=4" />
 </p>
 
----
-
-<!-- ABOUT ME SECTION -->
-<div align="left">
-
-## 🌌 The Vision
-I am a **Creative Frontend Developer** dedicated to bridging the gap between imagination and reality through code. My work focuses on building **immersive digital experiences** that blend high-end UI engineering with 3D interactivity. Inspired by futuristic aesthetics and cinematic design, I turn complex ideas into seamless, visually stunning web applications.
-
-- 🚀 **Building**: Immersive 3D Portfolios & AI-Driven Solutions.
-- 🎨 **Crafting**: High-fidelity UI/UX with a focus on motion and glassmorphism.
-- 🔍 **Exploring**: The intersection of Creative Coding and AI.
-- 📸 **Capturing**: Professional photography & videography.
-
-</div>
+- 🏅 **Product Shoot Winner**
+- 💃 **Let’s Dance 24 Participant**
+- 🌟 **Creative Tech Enthusiast**
 
 ---
 
-<!-- TECH STACK SECTION -->
+### 📊 GitHub Stats
+
 <div align="center">
-
-## 🛠️ Technological Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,js,tailwind,vite,nextjs,nodejs,python,mongodb,figma,git,github" alt="Tech Stack" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-D-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-D-17&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend-React.js_%7C_Three.js_%7C_Next.js-9333ea?style=flat-square" />
-<img src="https://img.shields.io/badge/Styling-Tailwind_CSS_%7C_Framer_Motion-ec4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-Node.js_%7C_Python_%7C_MongoDB-9333ea?style=flat-square" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-D-17&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS SECTION -->
+### 📫 Connect with Me
+
 <div align="center">
-
-## 💎 Featured Creations
-<img src="https://raw.githubusercontent.com/MANISH-D-17/MANISH-D-17/main/assets/projects.png" width="100%" alt="Project Showcase" />
-
-<br/>
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **3D Portfolio** | Immersive cinematic 3D web experience. | React, Three.js, R3F | [Demo](https://3-d-portfolio-website-beige.vercel.app/) / [Code](https://github.com/MANISH-D-17) |
-| **AI Finance Advisor** | Intelligent wealth management dashboard. | React, AI SDK, Node.js | [Code](https://github.com/MANISH-D-17) |
-| **AI Doctor** | Virtual health consultation platform. | React, Python, AI | [Code](https://github.com/MANISH-D-17) |
-| **Weather App** | Real-time cinematic weather forecasts. | React, API, CSS3 | [Code](https://github.com/MANISH-D-17) |
-
+  <a href="https://www.linkedin.com/in/d-manish-930514292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MANISH-D-17">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
-
----
-
-<!-- GITHUB STATS SECTION -->
-<div align="center">
-
-## 📊 Neural Activity (Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-D-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=9333ea&icon_color=ec4899&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-D-17&theme=tokyonight&hide_border=true&background=050505&ring=9333ea&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-D-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=9333ea&text_color=ffffff" alt="Top Languages" width="40%" />
+  <img src="https://komarev.com/ghpvc/?username=MANISH-D-17&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
-### 🐍 Contribution Flow
-<img src="https://raw.githubusercontent.com/MANISH-D-17/MANISH-D-17/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-
-</div>
-
----
-
-<!-- EXPERIENCE / ACHIEVEMENTS SECTION -->
-<div align="center">
-
-## 🏆 Milestones & Achievements
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-9333ea?style=for-the-badge&logo=deloitte&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GPU_Codeathon-ec4899?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/InnovSense-2025-9333ea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Yugam-2025-ec4899?style=for-the-badge" />
-</div>
-
-<br/>
-
-> **Product Shoot Winner** • **Let’s Dance 24** • **Creative Tech Enthusiast**
-
-</div>
-
----
-
-<!-- CONTACT SECTION -->
-<div align="center">
-
-## 📡 Initialize Contact
-
-<a href="https://www.linkedin.com/in/d-manish-930514292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/MANISH-D-17">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://3-d-portfolio-website-beige.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-9333ea?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Message-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=100&section=footer" width="100%" />
-
-</div>
